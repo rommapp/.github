@@ -1,3 +1,3 @@
 ## RomM Project
 
-![romm banner](images/banner.png)
+![romm banner](profile/images/banner.png)
