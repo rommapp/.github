@@ -24,7 +24,7 @@ Other projects under the umbrella will be licensed under similar permissive lice
 
 ### Contributing
 
-RomM is a collabaorative project, and we welcome contributions from the community. Our code is available on GitHub, and we encourage you to contribute to the project by submitting bug reports, feature requests, or pull requests. Please check the contribution guidelines in each project for more information.
+RomM is a collaborative project, and we welcome contributions from the community. Our code is available on GitHub, and we encourage you to contribute to the project by submitting bug reports, feature requests, or pull requests. Please check the contribution guidelines in each project for more information.
 
 ### Community
 
