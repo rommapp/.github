@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0e496ab6-5a3e-4e60-85d9-c61eb5cc4ed5"  width="300px" alt="romm logo">
+  <img src="https://raw.githubusercontent.com/rommapp/romm/refs/heads/release/.github/resources/logotipo.png"  width="300px" alt="romm logo">
 </div>
 
 <br/>
