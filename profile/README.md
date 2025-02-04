@@ -34,5 +34,5 @@ Join us on Discord, where you can ask questions, submit ideas, get help, showcas
 
 [![discord-invite-img]][discord-invite]
 
-[discord-invite-img]: https://invidget.switchblade.xyz/P5HtHnhUDH
-[discord-invite]: https://discord.gg/P5HtHnhUDH
+[discord-invite-img]: https://invidget.switchblade.xyz/RGPJHNMMwJ
+[discord-invite]: https://discord.gg/RGPJHNMMwJ
