@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logotypo.png"  width="300px" alt="romm logo">
+  <img src="images/logotipo.png"  width="300px" alt="romm logo">
 </div>
 
 <br/>
