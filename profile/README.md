@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logotipo.png"  width="300px" alt="romm logo">
+  <img src="https://github.com/rommapp/.github/blob/main/profile/images/logotipo.png"  width="300px" alt="romm logo">
 </div>
 
 <br/>
