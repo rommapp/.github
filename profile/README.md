@@ -16,7 +16,7 @@ At the heart of this project is a commitment to freedom, collaboration, and tran
 
 By offering RomM as a self-hosted, open-source solution, we ensure that everyone has the ability to manage their game collections on their own terms, and own their data, all without being tied to proprietary systems or services.
 
-**Rom is and will always be free and open-source software.**
+**RomM is and will always be free and open-source software.**
 
 The core app is licensed under [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/), which requires that all modifications to the code be made available under the same license. This ensures that the community can benefit from and build upon the contributions of others, promoting trust and transparency.
 
